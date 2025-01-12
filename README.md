@@ -1,2 +1,2 @@
-# test_repo
+# my first repository
 HW 2-4
